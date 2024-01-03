@@ -1,6 +1,8 @@
 package main
 
-import "fmt" //to Println
+import (
+	"fmt"
+) //to Println
 
 //to run Enter "go run 'filename.go'"
 
